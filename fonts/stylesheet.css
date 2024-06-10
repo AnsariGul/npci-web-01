@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'SHREE-TAM-0802';
+    src: url('SHREE-TAM-0802.eot');
+    src: url('SHREE-TAM-0802.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-TAM-0802.woff2') format('woff2'),
+        url('SHREE-TAM-0802.woff') format('woff'),
+        url('SHREE-TAM-0802.ttf') format('truetype'),
+        url('SHREE-TAM-0802.svg#SHREE-TAM-0802') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-KAN-0853';
+    src: url('SHREE-KAN-0853.eot');
+    src: url('SHREE-KAN-0853.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-KAN-0853.woff2') format('woff2'),
+        url('SHREE-KAN-0853.woff') format('woff'),
+        url('SHREE-KAN-0853.ttf') format('truetype'),
+        url('SHREE-KAN-0853.svg#SHREE-KAN-0853') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-DEV-0714';
+    src: url('SHREE-DEV-0714-Bold.eot');
+    src: url('SHREE-DEV-0714-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-DEV-0714-Bold.woff2') format('woff2'),
+        url('SHREE-DEV-0714-Bold.woff') format('woff'),
+        url('SHREE-DEV-0714-Bold.ttf') format('truetype'),
+        url('SHREE-DEV-0714-Bold.svg#SHREE-DEV-0714-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-KAN-0854';
+    src: url('SHREE-KAN-0854.eot');
+    src: url('SHREE-KAN-0854.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-KAN-0854.woff2') format('woff2'),
+        url('SHREE-KAN-0854.woff') format('woff'),
+        url('SHREE-KAN-0854.ttf') format('truetype'),
+        url('SHREE-KAN-0854.svg#SHREE-KAN-0854') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-BAN-0560E';
+    src: url('SHREE-BAN-0560E.eot');
+    src: url('SHREE-BAN-0560E.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-BAN-0560E.woff2') format('woff2'),
+        url('SHREE-BAN-0560E.woff') format('woff'),
+        url('SHREE-BAN-0560E.ttf') format('truetype'),
+        url('SHREE-BAN-0560E.svg#SHREE-BAN-0560E') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-TEL-0908';
+    src: url('SHREE-TEL-0908.eot');
+    src: url('SHREE-TEL-0908.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-TEL-0908.woff2') format('woff2'),
+        url('SHREE-TEL-0908.woff') format('woff'),
+        url('SHREE-TEL-0908.ttf') format('truetype'),
+        url('SHREE-TEL-0908.svg#SHREE-TEL-0908') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-BAN-0562E';
+    src: url('SHREE-BAN-0562E.eot');
+    src: url('SHREE-BAN-0562E.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-BAN-0562E.woff2') format('woff2'),
+        url('SHREE-BAN-0562E.woff') format('woff'),
+        url('SHREE-BAN-0562E.ttf') format('truetype'),
+        url('SHREE-BAN-0562E.svg#SHREE-BAN-0562E') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-TAM-0802';
+    src: url('SHREE-TAM-0802-Bold.eot');
+    src: url('SHREE-TAM-0802-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-TAM-0802-Bold.woff2') format('woff2'),
+        url('SHREE-TAM-0802-Bold.woff') format('woff'),
+        url('SHREE-TAM-0802-Bold.ttf') format('truetype'),
+        url('SHREE-TAM-0802-Bold.svg#SHREE-TAM-0802-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-DEV-0714';
+    src: url('SHREE-DEV-0714.eot');
+    src: url('SHREE-DEV-0714.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-DEV-0714.woff2') format('woff2'),
+        url('SHREE-DEV-0714.woff') format('woff'),
+        url('SHREE-DEV-0714.ttf') format('truetype'),
+        url('SHREE-DEV-0714.svg#SHREE-DEV-0714') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SHREE-KAN-0854';
+    src: url('SHREE-KAN-0854-Bold.eot');
+    src: url('SHREE-KAN-0854-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SHREE-KAN-0854-Bold.woff2') format('woff2'),
+        url('SHREE-KAN-0854-Bold.woff') format('woff'),
+        url('SHREE-KAN-0854-Bold.ttf') format('truetype'),
+        url('SHREE-KAN-0854-Bold.svg#SHREE-KAN-0854-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
